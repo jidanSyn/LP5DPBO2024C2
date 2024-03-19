@@ -1,5 +1,3 @@
-![image](https://github.com/jidanSyn/LP5DPBO2024C2/assets/114399924/ce7062dc-3cbf-48ad-aa20-996d1e24247d)# LP5DPBO2024C2
-
 ## Saya Jidan Abdurahman Aufan NIM [2205422] mengerjakan soal Latihan Praktikum-5 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin 
 
 ### Mengimplementasi Kode yang ada di Modul Praktikum, menambahkan attribut 'Fakultas', dan menambahkan pertanyaan konfirmasi penghapusan data.
